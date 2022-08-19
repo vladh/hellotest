@@ -5,7 +5,7 @@ Hello! :)
 This is a test repository!
 
 ```
-                             Hello world!
+                             Hello world! I like bunnies!
                                \
                                 \
                                  \
